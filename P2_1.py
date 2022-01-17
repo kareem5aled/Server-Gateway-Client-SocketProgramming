@@ -42,7 +42,7 @@ def Main():
                 #Receive data from gateway server, decode it to strings and print it
                 data = conn.recv(1024)
                 data = data.decode("utf-8") 
-                print('The four arguemnts are:'+data)
+                print('The four arguemnts are: '+data)
                 
 if __name__ == "__main__":
     Main()
