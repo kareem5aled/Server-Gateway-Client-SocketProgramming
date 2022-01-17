@@ -10,4 +10,5 @@ This is a socket programming project that is divided into three main parts:
 
 The IP addresses and port numbers of each of the previous instances are provided in a config file.
 
-The following figure simplifies how the system ![system](C:\Users\Karim\Desktop\Socket\system.PNG)works:
+The following figure shows how the system works:
+![alt text](https://github.com/kareem5aled/Server-Gateway-Client-SocketProgramming/blob/main/system.PNG)
